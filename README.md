@@ -113,6 +113,8 @@ Now you can import an example!
    examples and Select Folder
 4. Select the example(s) you wish to import and press Finish
 
+![Import CCS Projects Dialog](images/select_ccsproject.png)
+
 ## SDK Association
 
 Click the links below for a list of boards in each SDK that Core SDK examples
